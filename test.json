@@ -1,8 +1,1 @@
-{
-  "ruby": {
-    "rails":30000
-  },
-  "python": {
-    "django":25000
-  }
-}
+{"id":1,"first_name":"Taro","last_name":"Suzuki","age":25}
