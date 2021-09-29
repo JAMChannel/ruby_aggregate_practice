@@ -1,3 +1,4 @@
+require "byebug"
 require_relative './aggregator/high_motivation_user_aggregator.rb'
 require_relative './aggregator/kind_user_aggregator'
 require_relative './aggregator/poupular_message_aggregator'
